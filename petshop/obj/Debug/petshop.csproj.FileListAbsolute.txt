@@ -1,0 +1,88 @@
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\obj\Debug\petshop.csproj.AssemblyReference.cache
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\obj\Debug\petshop.menu.resources
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\obj\Debug\petshop.Properties.Resources.resources
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\obj\Debug\petshop.csproj.GenerateResource.cache
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\obj\Debug\petshop.csproj.CoreCompileInputs.cache
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\petshop.exe.config
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\petshop.exe
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\petshop.pdb
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\obj\Debug\petshop.exe
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\obj\Debug\petshop.pdb
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\obj\Debug\petshop.cadastropet.resources
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\obj\Debug\petshop.verpets.resources
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\Google.Protobuf.dll
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\MySql.Data.dll
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\System.Buffers.dll
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\System.IO.Pipelines.dll
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\System.Memory.dll
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\ZstdSharp.dll
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\Google.Protobuf.pdb
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\Google.Protobuf.xml
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\MySql.Data.xml
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\System.Buffers.xml
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\System.IO.Pipelines.xml
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\System.Memory.xml
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\joao.ppcsantos\source\repos\petshop\petshop\obj\Debug\petshop.csproj.CopyComplete
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\petshop.exe.config
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\petshop.exe
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\petshop.pdb
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\BouncyCastle.Cryptography.dll
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\Google.Protobuf.dll
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\K4os.Compression.LZ4.dll
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\K4os.Compression.LZ4.Streams.dll
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\K4os.Hash.xxHash.dll
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\MySql.Data.dll
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\System.Buffers.dll
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\System.Configuration.ConfigurationManager.dll
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\System.IO.Pipelines.dll
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\System.Memory.dll
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\System.Numerics.Vectors.dll
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\System.Threading.Tasks.Extensions.dll
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\ZstdSharp.dll
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\BouncyCastle.Cryptography.xml
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\Google.Protobuf.pdb
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\Google.Protobuf.xml
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\K4os.Compression.LZ4.xml
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\K4os.Compression.LZ4.Streams.xml
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\K4os.Hash.xxHash.xml
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\MySql.Data.xml
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\System.Buffers.xml
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\System.IO.Pipelines.xml
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\System.Memory.xml
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\System.Numerics.Vectors.xml
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\bin\Debug\System.Threading.Tasks.Extensions.xml
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\obj\Debug\petshop.csproj.AssemblyReference.cache
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\obj\Debug\petshop.cadastropet.resources
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\obj\Debug\petshop.menu.resources
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\obj\Debug\petshop.Properties.Resources.resources
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\obj\Debug\petshop.verpets.resources
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\obj\Debug\petshop.csproj.GenerateResource.cache
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\obj\Debug\petshop.csproj.CoreCompileInputs.cache
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\obj\Debug\petshop.csproj.CopyComplete
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\obj\Debug\petshop.exe
+T:\Cursos Tecnicos\9900262041_TECINF_A2023_T19062024\01 - Alunos\João Pedro Pereira Costa dos Santos\petshop\petshop\obj\Debug\petshop.pdb
